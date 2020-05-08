@@ -1,6 +1,6 @@
 [submodule "https://github.com/sivatest82/Terraform1/tree/master/basics"]
 	path = https://github.com/sivatest82/Terraform1/tree/master/basics
 	url = https://github.com/sivatest82/content-terraform-docker-secrets
-[submodule "master/basics"]
-	path = master/basics
-	url = https://github.com/sivatest82/content-terraform-docker-secrets.git
+[submodule "master/Lab_Docker_Nw"]
+	path = master/Lab_Docker_Nw
+	url = https://github.com/sivatest82/content-terraform-docker-secrets
