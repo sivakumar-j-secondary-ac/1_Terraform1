@@ -4,3 +4,6 @@
 [submodule "master/Lab_Docker_Nw"]
 	path = master/Lab_Docker_Nw
 	url = https://github.com/sivatest82/content-terraform-docker-secrets
+[submodule "Lab_Docker_Nw/sub2"]
+	path = Lab_Docker_Nw/sub2
+	url = https://github.com/sivatest82/content-terraform-docker-secrets.git
